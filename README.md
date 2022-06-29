@@ -1,5 +1,5 @@
 # Kubernetes
-**
+***
 findEmptyNamespaces.sh: Loop over all namespaces in a cluster and find empty ones.
 
 getPodsTopCSV.sh: Get a pod's cpu and memory usage (optionally per container) written as CSV formatted file.
