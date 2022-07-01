@@ -10,7 +10,7 @@ NAMESPACE=--all-namespaces
 QUITE=false
 HEADERS=true
 CONSOLE_ONLY=false
-SCRIPT_NAME=$0
+SCRIPT_NAME=$0   
 
 ######### Functions #########
 
