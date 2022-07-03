@@ -10,7 +10,7 @@ NAMESPACE=--all-namespaces
 QUITE=false
 HEADERS=true
 SCRIPT_NAME=$0
-
+           
 ######### Functions #########
 
 errorExit () {
