@@ -29,7 +29,7 @@ Usage: ${SCRIPT_NAME} <options>
 --no-headers                           : Don't print headers line
 Examples:
 ========
-Get all:                                                  $ ${SCRIPT_NAME}
+Get all:                                                     $ ${SCRIPT_NAME}
 Get for namespace foo:                                    $ ${SCRIPT_NAME} --namespace foo
 Get for namespace foo and use output file bar.csv :       $ ${SCRIPT_NAME} --namespace foo --output bar.csv
 END_USAGE
