@@ -7,7 +7,7 @@
 # Check status is 'Running' and that all containers are ready.
 # Return 1 if not ready. Return 0 if ready.
 
-# pod is the pod name
+# pod is the pod name     
 pod=$1        
 [ -z "${pod}" ] && echo "ERROR: Pod name not passed" && exit 1
 
