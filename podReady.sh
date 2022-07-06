@@ -10,7 +10,7 @@
 # pod is the pod name     
 pod=$1        
 [ -z "${pod}" ] && echo "ERROR: Pod name not passed" && exit 1
-
+    
 # ns is namespace. Defaults to 'default'
 ns=$2
 [ -z "${ns}" ] && ns='default'
